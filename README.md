@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-hello
-=======
 # TP-AI-Meetup
 
-This is awesome!
+This is awesome! from branch.........
